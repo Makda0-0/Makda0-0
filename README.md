@@ -5,7 +5,7 @@
 💻 Tech Stack:
 - **Languages:** C++, Python, Java, JavaScript, TypeScript, Kotlin
 - **Frontend:** React.js, Next.js, HTML5, CSS3
-- **Backend:** Node.js, Express.js, Spring Boot, Django
+- **Backend:** Node.js, Express.js, Django
 - **Databases:** PostgreSQL, MySQL
 - **Game Development:** Unity (C#)
 - **Tools & Cloud:** Git, Docker, AWS, Azure, Figma, Postman
